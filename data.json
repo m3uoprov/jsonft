@@ -1,0 +1,41 @@
+{
+    "name": "FefTV",
+    "pl": "brMd2ZfUWq5+L0UhIRUrfiWYfPG2Ndtc0tQJ+gfK7ho=",
+    "stations": [
+        {
+            "name": "Betis Deportivo Balompié vs CF Intercity, Grupo 2, 1ª Federación 24/25",
+            "image": "https://ott.fef-tv.hiway.media/vimages/public/images/match/card/351_vs_153_2.jpg",
+            "url": "https://livesg.fef-tv.hiway.media/restreamer/feftv_client/gpu-d-c0-3/restreamer/outgest/5a245dc2-52ca-4f2c-abdc-e28548ba1ec9/manifest.m3u8?t=MDA7ODAuMjI0Ljc3LjIyNTszMjsxNzI0NTg3MjgyOzE3MjQ1MjcyODI7MjEyMjU4MDgxMTs4MDkxOTUxMDQ7YTYwYmViZDQtODllZC00Njc4LWE5N2MtOTJiZmJjODFiNTU5OzA7MTM5MTczOw==.rpIvBMC",
+            "referer": "https://feftv.com",
+            "isHost": "true"
+        },
+        {
+            "name": "Club Atlético Osasuna B vs Zamora CF SAD, Grupo 1, 1ª Federación 24/25",
+            "image": "https://ott.fef-tv.hiway.media/vimages/public/images/match/card/39_vs_288_2.jpg",
+            "url": "https://livesg.fef-tv.hiway.media/restreamer/feftv_client/gpu-d-c0-4/restreamer/outgest/18b6909d-6a84-4552-b01a-af8fad1989b5/manifest.m3u8?t=MDA7ODAuMjI0Ljc3LjIyNTszMjsxNzI0NTg3Mjg1OzE3MjQ1MjcyODU7MjEyMjU4MDgxMTsyOTgzMzQ1MDgyOzdkYjNiNGRmLWNkYmEtNDllMC04YTQwLTEyOGQxNGFhMTFjZjswOzEzOTE3Mzs=.zW1tKwE",
+            "referer": "https://feftv.com",
+            "isHost": "true"
+        },
+        {
+            "name": "Hércules de Alicante CF SAD vs AD Ceuta FC, Grupo 2, 1ª Federación 24/25",
+            "image": "https://ott.fef-tv.hiway.media/vimages/public/images/match/card/336_vs_164_2.jpg",
+            "url": "https://livesg.fef-tv.hiway.media/restreamer/feftv_client/gpu-e-c0-2/restreamer/outgest/2fd99489-19f2-46f3-bd10-395f6f8dc48b/manifest.m3u8?t=MDA7ODAuMjI0Ljc3LjIyNTszMjsxNzI0NTg3Mjg0OzE3MjQ1MjcyODQ7MjEyMjU4MDgxMTs1NDIzODYzOTA7ZjUyNDBlM2MtOTVmMy00ZWQxLTk5MmUtYzQ1ODk1MmJkNGQwOzA7MTM5MTczOw==.wHQnZtz",
+            "referer": "https://feftv.com",
+            "isHost": "true"
+        },
+        {
+            "name": "CyD Leonesa vs CD Lugo, Grupo 1, 1ª Federación 24/25",
+            "image": "https://ott.fef-tv.hiway.media/vimages/public/images/match/card/27_vs_9_2.jpg",
+            "url": "https://livesg.fef-tv.hiway.media/restreamer/feftv_client/gpu-d-c0-1/restreamer/outgest/4b771eb6-8a38-4719-bac3-23614b1c701e/manifest.m3u8?t=MDA7ODAuMjI0Ljc3LjIyNTszMjsxNzI0NTg3Mjg1OzE3MjQ1MjcyODU7MjEyMjU4MDgxMTsyMTQ2NDM4NTY2O2ZiOGJiYjc2LTczZjMtNDAyMi1hMzU1LWI3OTZiNjM4MzJmOTswOzEzOTE3Mzs=.TM1AQU-",
+            "referer": "https://feftv.com",
+            "isHost": "true"
+        },
+        {
+            "name": "Gimnàstic de Tarragona vs Ourense CF SAD, Grupo 1, 1ª Federación 24/25",
+            "image": "https://ott.fef-tv.hiway.media/vimages/public/images/match/card/67_vs_315_2.jpg",
+            "url": "https://livesg.fef-tv.hiway.media/restreamer/feftv_client/gpu-d-c1-7/restreamer/outgest/8a070814-dc94-44e0-8b39-2412c2b2532c/manifest.m3u8?t=MDA7ODAuMjI0Ljc3LjIyNTszMjsxNzI0NTg3Mjg2OzE3MjQ1MjcyODY7MjEyMjU4MDgxMTs5Njg2MTIyNzszM2MyNjMzYy05NjAyLTRlY2QtYTFhNy1mMGRlMWJmNjZmOTA7MDsxMzkxNzM7.f6HMuCu",
+            "referer": "https://feftv.com",
+            "isHost": "true"
+        }
+    ]
+}
